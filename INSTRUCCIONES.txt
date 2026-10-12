@@ -1,0 +1,13 @@
+BIBLIOTECA VIRTUAL - LICEO Nº1 PAYSANDÚ
+
+Esta es una PWA de acceso a la biblioteca original, no una migración completa de la interfaz de Apps Script.
+
+PUBLICACIÓN (GitHub Pages):
+1. Crear un repositorio público nuevo (por ejemplo biblioteca-liceo1-app). No subir datos de alumnos, claves ni Código.gs.
+2. Subir SOLO los archivos de esta carpeta a la raíz del repositorio.
+3. Settings > Pages > Build and deployment > Deploy from a branch > main / (root) > Save.
+4. Esperar a que GitHub Pages indique la URL https://USUARIO.github.io/biblioteca-liceo1-app/
+5. Abrir ESA URL desde Chrome (Android) o Safari (iPhone).
+6. Android: menú > Instalar aplicación / Añadir a pantalla principal. iPhone: Compartir > Añadir a pantalla de inicio.
+
+IMPORTANTE: Al pulsar Abrir biblioteca virtual se navega al enlace de Apps Script. La experiencia puede abrirse en el navegador y no permanece necesariamente dentro de la PWA. La app requiere conexión para el contenido de Apps Script. Antes de difundir, revisar la configuración de acceso de Apps Script y los permisos/seguridad de datos de estudiantes.
